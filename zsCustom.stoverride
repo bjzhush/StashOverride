@@ -1,0 +1,6 @@
+name: ZS自定义规则  
+desc: ZS自定义规则  
+rules:
+  - DOMAIN-SUFFIX,redd.it,🔰国外流量
+  - DOMAIN-SUFFIX,v2ex.com,🔰国外流量
+
