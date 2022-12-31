@@ -2,4 +2,5 @@ name: Reddit图片走代理
 desc: 加载更流畅的Reddit
 rules:
   - DOMAIN-SUFFIX,redd.it,🔰国外流量
+  - DOMAIN-SUFFIX,v2ex.com,🔰国外流量
 
