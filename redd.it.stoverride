@@ -3,4 +3,4 @@ desc: 加载更流畅的Reddit
 rules:
   - DOMAIN-SUFFIX,redd.it,🔰国外流量
   - DOMAIN-SUFFIX,v2ex.com,🔰国外流量
-  - DOMAIN-SUFFIX,cnreads.net,🔰国外流量
+  - DOMAIN-SUFFIX,creaders.net,🔰国外流量
