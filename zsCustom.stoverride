@@ -4,3 +4,4 @@ rules:
   - DOMAIN-SUFFIX,redd.it,🔰国外流量
   - DOMAIN-SUFFIX,v2ex.com,🔰国外流量
   - DOMAIN-SUFFIX,rfa.org,🔰国外流量
+  - DOMAIN-SUFFIX,1230.la,🔰国外流量
