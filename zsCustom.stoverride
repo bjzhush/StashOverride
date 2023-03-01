@@ -6,3 +6,4 @@ rules:
   - DOMAIN-SUFFIX,rfa.org,🔰国外流量
   - DOMAIN-SUFFIX,1230.la,🔰国外流量
   - DOMAIN-KEYWORD,pikpak,🔰国外流量
+  - DOMAIN-SUFFIX,opencloud.wostore.cn,REJECT
