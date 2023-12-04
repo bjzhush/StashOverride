@@ -1,4 +1,4 @@
-name: For Mac  
+name: fuck_upload 
 desc: 禁用一些国产APP的数据上传
 rules:
   - DOMAIN-SUFFIX,go2map.com,REJECT
