@@ -1,4 +1,8 @@
 name: For Mac  
-desc: 禁用一些有瘾的奶头乐
+desc: 禁用一些有瘾的奶头乐,以及一些可能上传数据的垃圾APP（比如搜狗）
 rules:
   - DOMAIN-SUFFIX,douyin.com,REJECT
+  - DOMAIN-SUFFIX,go2map.com,REJECT
+  - DOMAIN-SUFFIX,sogo.com,REJECT
+  - DOMAIN-SUFFIX,sogou.com,REJECT
+  - DOMAIN-SUFFIX,sogoucdn.com,REJECT
