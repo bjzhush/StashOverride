@@ -1,0 +1,4 @@
+name: fuck_naitoule
+desc: 禁用一些有瘾的奶头乐
+rules:
+  - DOMAIN-SUFFIX,douyin.com,REJECT
