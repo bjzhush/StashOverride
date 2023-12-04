@@ -1,0 +1,7 @@
+name: For Mac  
+desc: 禁用一些国产APP的数据上传
+rules:
+  - DOMAIN-SUFFIX,go2map.com,REJECT
+  - DOMAIN-SUFFIX,sogo.com,REJECT
+  - DOMAIN-SUFFIX,sogou.com,REJECT
+  - DOMAIN-SUFFIX,sogoucdn.com,REJECT
