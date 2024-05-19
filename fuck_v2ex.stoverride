@@ -1,0 +1,4 @@
+name: fuck_v2ex
+desc: fuck v2ex ,fuck livid
+rules:
+  - DOMAIN-SUFFIX,v2ex.com,REJECT
